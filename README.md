@@ -1,4 +1,4 @@
-# CarbonMind - Personal Carbon Footprint Analyzer
+# Carbon Mind - Personal Carbon Footprint Analyzer
 
 A modern, interactive web application that helps you understand and reduce your environmental impact through personalized carbon analysis and actionable recommendations.
 
